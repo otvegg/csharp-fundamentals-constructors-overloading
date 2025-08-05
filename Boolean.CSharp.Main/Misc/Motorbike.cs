@@ -22,6 +22,7 @@ namespace Boolean.CSharp.Main.Misc
 
         public Motorbike(string Make, string Model)
         {
+            _cc = 373;
             _make = Make;
             _model = Model;
         }
